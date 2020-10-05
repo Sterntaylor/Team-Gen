@@ -6,6 +6,8 @@
         -Inquirer for prompts
         -Axios for http requests and transforming JSON data
         -FS to read, create, upload, deletion, and renaming files
+        
+        This week we were tasked with creating, what I imagined as a HR/Admin tool for adding new hires to a generated website after information was gathered and input.
 
 Link to video - [Demonstration](https://drive.google.com/file/d/1tV8yF5FQ_gjmOYnSwnI13IBRt4NvP2np/view?usp=sharing)
 
