@@ -1,10 +1,10 @@
 const Manager = require('../lib/Manager');
 
 test('office number', () => {
-    const number = undefined;
-    const newHire = new Manager(name, number);
-    expect(newHire.number).toBe(number);
-    expect(newHire.getNumber()).toBe(number);
+    const officenumber = undefined;
+    const newHire = new Manager(name, officenumber);
+    expect(newHire.officenumber).toBe(officenumber);
+    expect(newHire.getofficenumber()).toBe(officenumber);
 })
 test('role', ()=> {
     const role = 'Manager';

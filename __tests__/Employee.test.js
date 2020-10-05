@@ -19,7 +19,7 @@ test('ID', ()=> {
     expect(newHire.getId()).toBe(id);
 });
 test('email', ()=> {
-    const email = 'sterntaylor0629@gmail.com';
+    const email = undefined;
     const newHire = new Employee(name, email);
     expect(newHire.email).toBe(email);
     expect(newHire.getEmail()).toBe(email);

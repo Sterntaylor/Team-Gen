@@ -20,12 +20,12 @@ const Admin = [
     },
     {
         type: 'input',
-        name: "ID",
+        name: "id",
         message: 'What is your ID number?'
     },
     {
         type: 'input',
-        name: 'Email',
+        name: 'email',
         message: 'What is your work email?'
     }
 ];
@@ -45,12 +45,12 @@ const newHire = [
     },
     {
         type: 'input',
-        name: "ID",
+        name: "id",
         message: 'What is their ID?'
     },
     {
         type: 'input',
-        name: 'Email',
+        name: 'email',
         message: 'What is their email?'
     },
     {
@@ -63,15 +63,15 @@ const newHire = [
 const AdminQuestion = [
     {
         type: 'input',
-        name: "officenumber",
-        message: 'What is your office number'
+        name: "officeNumber",
+        message: 'What is your office number?'
     }
 ];
 const engineerQuestion = [
     {
         type: 'input',
         name: 'username',
-        message: 'What is your github username'
+        message: 'What is your github username?'
     }
 ];
 const internQuestion = [
